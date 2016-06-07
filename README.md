@@ -1,2 +1,2 @@
 # ChangeTime
-Djnago Project to Change time format
+Django Project to Change time format
